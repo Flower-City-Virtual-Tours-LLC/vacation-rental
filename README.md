@@ -1,4 +1,4 @@
-# Realtor Profile
+# Vacation Rental
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-Welcome to My Realtor Profile! This repository contains the codebase for my real estate profile application. This serves as a portfolio website to showcase my real estate portfolio, featuring properties I've listed, sold, and helped clients find. Whether you're looking to buy, sell, or invest in real estate, My application provides a comprehensive overview of my services and expertise in the industry as well as tools and information that will help you with your transaction.
+Vacation Rental
 
 ## Table of Contents
 
@@ -90,7 +90,3 @@ Please review our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-
-For questions or support, please contact Greg Miller at Austin@margarone.dev.
-# vacation-rental
-# vacation-rental
