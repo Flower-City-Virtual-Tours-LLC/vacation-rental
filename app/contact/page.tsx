@@ -25,7 +25,7 @@ export const metadata: Metadata = {
 const page = () => {
   return (
     <main className="mx-auto my-[2.5rem] justify-center p-[1rem]">
-      <h2 className="md:h1 h2 mb-[1.25rem] dark:text-white">Contact Me</h2>
+      <h2 className="md:h1 h2 mb-[1.25rem] dark:text-white">Contact Host</h2>
       <section className="flex justify-center">
         <Form />
       </section>

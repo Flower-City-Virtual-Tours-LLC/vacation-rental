@@ -24,12 +24,7 @@ const Reviews = () => {
             "My stay was amazing! The house was clean and the host was very
             accommodating. I would definitely stay here again!"
           </p>
-          <Link
-            href={
-              "https://www.realtor.com/realestateagents/austin-margarone_rochester_ny_3802982_051184163"
-            }
-            target="_blank"
-          >
+          <Link href={"https://www.airbnb.com"} target="_blank">
             <button className="button dark:buttondark mx-auto mt-[1.25rem] flex">
               See More
             </button>

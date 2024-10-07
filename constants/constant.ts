@@ -20,15 +20,11 @@ export const menuLinks: MenuLink[] = [
     label: "Contact Host",
   },
   {
-    route: "/tools",
-    label: "Tools",
-  },
-  {
     route: "/blog",
     label: "Blog",
   },
   {
     route: "/disclosures",
-    label: "Disclosures",
+    label: "Forms",
   },
 ];

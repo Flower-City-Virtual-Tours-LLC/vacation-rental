@@ -4,8 +4,8 @@
 
 @layer utilities {
   .active-theme {
-    filter: invert(72%) sepia(94%) saturate(10000%) hue-rotate(0deg)
-      brightness(100%) contrast(100%) !important;
+    filter: invert(43%) sepia(60%) saturate(3900%) hue-rotate(-3deg)
+      brightness(95%) contrast(90%) !important;
   }
 }
 
