@@ -105,13 +105,9 @@ const Listing = ({
         <div className="p-[1rem] dark:text-white">
           <Link href={`/portfolio/${slug}`}>
             <div className="flex gap-2 font-bold">
-              <div
-                className="my-auto flex size-3 rounded-full"
-                style={{ backgroundColor: color }}
-              ></div>
-              <span>Nightly</span>
+              Nightly Rate
               <span>-</span>
-              <span>199${sale}</span>
+              <span>$199</span>
             </div>
             <div className="my-[.1rem] flex justify-start gap-[1rem]">
               <p>

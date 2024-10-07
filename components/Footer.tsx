@@ -14,7 +14,7 @@ const Footer = () => {
               alt={"Realtor Logo"}
               width={300}
               height={150}
-              className="size-[5rem] w-full rounded-sm dark:shadow-lg lg:size-[7rem]"
+              className="size-[5rem] w-full rounded-sm dark:shadow-lg lg:w-full"
             />
           </Link>
         </div>

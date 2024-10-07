@@ -9,7 +9,7 @@ const About = () => {
         <div className="flex justify-center md:w-[50%]">
           <Link href={"/about"}>
             <Image
-              src={"/smallheadshot.jpeg"}
+              src={"/DSC_0280.jpeg"}
               alt={"Listing Photo"}
               width={450}
               height={268}
@@ -18,11 +18,13 @@ const About = () => {
           </Link>
         </div>
         <div className="md:w-[50%] ">
-          <h2 className="h2 mb-[.66rem] dark:text-white">About Me</h2>
+          <h2 className="h2 mb-[.66rem] dark:text-white">About</h2>
           <p className="body dark:bodydark">
-            I enjoy working with buyers and sellers to help them achieve their
-            dreams. My goal is to take the stress out of every transaction for
-            my clients to make the experience enjoyable and exciting.
+            I take pride in offering a welcoming and comfortable experience for
+            all my guests. From thoughtfully curated spaces to personalized
+            recommendations, I strive to make each stay memorable. Whether
+            you're here for a weekend getaway or an extended visit, my goal is
+            to ensure you feel right at home.
           </p>
           {/* <Link
             href={"https://mailchi.mp/be4735125a1b/subscribe"}

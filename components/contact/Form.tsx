@@ -133,12 +133,6 @@ const Form = () => {
         {errors.PhoneNumber && (
           <p className="mt-[-1rem] text-kw-red">{`Phone: ${errors.PhoneNumber.message}`}</p>
         )}
-        <input
-          type="text"
-          placeholder="Property Address (optional)"
-          className="dark:contactform contactformlte pl-1 placeholder:text-black dark:placeholder:text-white"
-          {...register("PropertyAddress")}
-        />
 
         <textarea
           {...register("Message")}
@@ -146,26 +140,6 @@ const Form = () => {
           className="dark:contactform contactformlte pl-1 placeholder:text-black dark:placeholder:text-white"
         />
         <div className="flex flex-col gap-3.5">
-          <div className="flex gap-3">
-            <input
-              type="checkbox"
-              id="buyingProperty"
-              {...register("buyingProperty")}
-            />
-            <label htmlFor="buyingProperty" className="dark:text-light-900">
-              Buying Property
-            </label>
-          </div>
-          <div className="flex gap-3">
-            <input
-              type="checkbox"
-              id="sellingProperty"
-              {...register("sellingProperty")}
-            />
-            <label htmlFor="sellingProperty" className="dark:text-light-900">
-              Selling Property
-            </label>
-          </div>
           <div className="flex gap-3">
             <input type="checkbox" id="Subscribe" {...register("Subscribe")} />
             <label htmlFor="Subscribe" className="dark:text-light-900">

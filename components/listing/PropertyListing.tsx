@@ -178,7 +178,7 @@ const PropertyListing = ({
               </p>
             </div>
             <div className="my-[.625rem] flex w-[150px] flex-wrap gap-3 sm:w-full sm:flex-none">
-              <p className="outlineborder flex gap-1  bg-kw-ltgray pr-[.5rem] text-black shadow-md dark:bg-kw-maingray dark:text-black">
+              {/* <p className="outlineborder flex gap-1  bg-kw-ltgray pr-[.5rem] text-black shadow-md dark:bg-kw-maingray dark:text-black">
                 <Image
                   src={"/icons/icons8-land-64.png"}
                   alt={"Icon8 Acres"}
@@ -188,7 +188,7 @@ const PropertyListing = ({
                 />
                 {lot}
                 <span> Acres</span>
-              </p>
+              </p> */}
               <p className="outlineborder flex gap-1  bg-kw-ltgray pr-[.5rem] text-black shadow-md dark:bg-kw-maingray dark:text-black">
                 <Image
                   src={"/icons/icons8-calendar-50.png"}
@@ -234,8 +234,8 @@ const PropertyListing = ({
       </section>
       <section>
         <div className="body dark:bodydark flex flex-col">
-          <span>Listing Agent: Greg Miller</span>
-          <span>MLS# {MLS}</span>
+          <span>Host: Greg Miller</span>
+          {/* <span>MLS# {MLS}</span> */}
         </div>
       </section>
     </main>
