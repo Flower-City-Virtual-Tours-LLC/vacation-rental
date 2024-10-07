@@ -29,7 +29,7 @@ const page = () => {
       <section className="mx-auto flex w-full flex-col">
         <div className="breakpoint mx-auto">
           <h1 className="h1 my-[2.5rem] flex justify-start dark:text-white">
-            About Me
+            About The Host
           </h1>
         </div>
         <section className="bg-kw-ltgray dark:bg-kw-darkgray">

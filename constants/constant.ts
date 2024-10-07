@@ -17,7 +17,7 @@ export const menuLinks: MenuLink[] = [
   },
   {
     route: "/contact",
-    label: "Contact Me",
+    label: "Contact Host",
   },
   {
     route: "/tools",

@@ -18,7 +18,7 @@ module.exports = {
     extend: {
       colors: {
         kw: {
-          red: "#B40101",
+          red: "#FA585D",
           ltgray: "#CCC",
           maingray: "#999",
           darkgray: "#666",

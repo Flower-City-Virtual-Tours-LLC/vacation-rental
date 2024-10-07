@@ -10,7 +10,7 @@ const Reviews = () => {
         <div className="flex justify-center md:w-[50%]">
           <Link href={"portfolio/605-wild-mallard-trail"}>
             <Image
-              src={"/wildmallard.jpg"}
+              src={"/DSC_0272.jpeg"}
               alt={"Listing Photo"}
               width={450}
               height={268}
@@ -21,14 +21,8 @@ const Reviews = () => {
         <div className="md:w-[50%] ">
           <h2 className="h2 mb-[.66rem] dark:text-white">My Reviews</h2>
           <p className="body dark:bodydark">
-            "Austin helped us with what has been said to be one of the most
-            stressful times in a person's life. Austin was punctual, always
-            prepared, and creative. He thought of things to show the house at
-            it's best that we would never have never considered. We are so happy
-            that we used Austin as our realtor. He is professional, courteous,
-            and worked hard to get our home sold quickly. He kept us informed
-            every step of the way. We recommend Austin without hesitation! He
-            was fantastic!! Thank you, Austin!!!"
+            "My stay was amazing! The house was clean and the host was very
+            accommodating. I would definitely stay here again!"
           </p>
           <Link
             href={

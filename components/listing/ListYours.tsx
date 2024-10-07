@@ -13,7 +13,7 @@ const ListYours = () => {
           campaigns that reach the right audience.
         </p>
         <Link href={"/contact"}>
-          <button className="button dark:buttondark">Contact Me</button>
+          <button className="button dark:buttondark">Contact Host</button>
         </Link>
       </div>
     </section>
